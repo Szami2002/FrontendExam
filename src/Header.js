@@ -30,6 +30,7 @@ export default function Header() {
         console.log(task)
         console.log(tomorrow)
         console.log(today)
+        /*inkább használjunk useRef()-et!!!*/
 
 
     }
