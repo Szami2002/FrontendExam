@@ -18,6 +18,7 @@ input[type=text] {
     
 }
 button{
+    cursor: pointer;
     display: inline-block;
     box-sizing: border-box;
     padding: 10px 10px;
@@ -25,4 +26,8 @@ button{
     border-width: 2px;
     border-color: black;
     
+}
+button:hover{
+    box-shadow: 0px 5px 5px  5px rgb(170, 171, 174) inset;
+    border-width: 0px;
 }

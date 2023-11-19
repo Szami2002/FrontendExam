@@ -1,0 +1,8 @@
+.boxicon{
+    cursor: pointer;
+    border-radius: 100%;
+}
+.boxicon:hover{
+    background-color: rgb(248, 245, 245);
+    box-shadow: 0px 5px 5px  5px rgb(170, 171, 174) inset;
+}
